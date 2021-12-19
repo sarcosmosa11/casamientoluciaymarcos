@@ -8,7 +8,7 @@
 /* portada */
 
 .portada{
-  background-image: url("/img/image-from-rawpixel-id-3283606-original.jpg");
+  background-image: url("img/image-from-rawpixel-id-3283606-original.jpg");
   height: 80vh;
   background-position: center;
   background-repeat: no-repeat;
